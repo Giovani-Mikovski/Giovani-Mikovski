@@ -1,6 +1,8 @@
-## Hi there 👋
-
+ ## Hi there 👋
 <!--
+Dev icon: icones de tecnologia
+Dev.to: icones de redes sociais e relacionados
+Git hub readme stats
 **Giovani-Mikovski/Giovani-Mikovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
