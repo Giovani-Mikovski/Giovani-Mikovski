@@ -32,7 +32,9 @@
 ## 📊 GitHub Stats  
  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Giovani-Mikovski&show_icons=true&theme=dracula&hide=issues) 
 
-## 📫Contatos
+## 📜 Certificados
+
+## 📫 Contatos
 <div> 
   <a href="mailto:giovani.mikovski@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
