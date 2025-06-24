@@ -32,7 +32,23 @@
 ## 📊 GitHub Stats  
  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Giovani-Mikovski&show_icons=true&theme=dracula&hide=issues) 
 
-## 📜 Certificados
+## 📜 Certificados em destaque
+### 💻 Tecnologia e Programação
+- **Ensino Médio Técnico em Informática** – IFPR  
+- **Introdução à Programação de Computadores com Python** – IFPR (50h)  
+- **Versionamento de Código com Git** – IFPR (20h)
+
+### 🏆 Competições
+- **Olimpíada Brasileira de Informática 2024** – Participação com colocação (601º de 5609)  
+- **Olimpíada Brasileira de Informática 2023** – Participação  
+
+### 🎓 Eventos Acadêmicos e Workshops
+Participei de eventos como **SIPEX (2022–2024)** e **InovaWeek 2025** com atividades como:
+- Apresentações de trabalhos acadêmicos  
+- Palestras e mesas redondas (tecnologia, inovação, sociedade)  
+- Oficinas sobre comunicação, criatividade, IA e empreendedorismo
+
+📁 [Veja todos os certificados aqui](https://github.com/Giovani-Mikovski/Certificados)
 
 ## 📫 Contatos
 <div> 
